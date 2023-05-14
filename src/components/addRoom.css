@@ -1,0 +1,63 @@
+.input {
+    width: 25%;
+    height: 1cm;
+    font-family:'Book Antiqua';
+    margin-top: 0.8cm;
+    padding-left: 0.5rem;
+    border: 3px solid transparent;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #0d0c22;
+    transition: .3s ease;
+    border-color: #8AB6F9;
+    font-size: 15.5px;
+   }
+   
+   .input::placeholder {
+    color: #050505;
+   }
+   
+   .input:focus, input:hover {
+    outline: none;
+    background-color: #fff;
+    box-shadow: 0 0 0 4px #8AB6F9;
+   }
+   #but{
+    background-color:#8AB6F9;
+    color: #fff;
+    border-radius: 6px;
+    transition: .5s;
+    margin-bottom: 0.8cm;
+   }
+   #but:hover{
+    background-color: #fff;
+    box-shadow: 0 0 0 5px  #8AB6F9;
+    color: #8AB6F9 ;
+   }
+   .inp{
+    width: 25%;
+    height: 1cm;
+    margin-top: 0.8cm;
+    transition: .5s;
+    border: 2.5px solid #8AB6F9;
+    border-radius: 6px;
+    font-size: 13.5px;
+    
+   }
+   .inp:hover{
+    box-shadow: 0 0 0 5px  #8AB6F9;
+   }
+   option{
+    color:black;
+    font-family:'Book Antiqua';
+   }
+   select option:hover{
+    background-color:  yellow;
+   }
+
+   
+   
+   
+   
+   
+   

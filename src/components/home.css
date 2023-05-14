@@ -1,0 +1,16 @@
+button {
+    background-color:#8AB6F9;
+    color: #fff;
+    border: none;
+    transition: .5s;
+    font-family:'Book Antiqua';
+  }
+  
+  button:hover {
+    background-color: #fff;
+    box-shadow: 0 0 0 10px  #8AB6F9;
+    color: #8AB6F9 ;
+  }
+
+  
+  

@@ -1,0 +1,10 @@
+.but3{
+    margin-top: 1cm;
+    font-size: 22px;
+    border-radius: 6px;
+    transition: .5s;
+    height: 1.2cm;
+}
+.but3:hover{
+    box-shadow: 0 0 0 5px  #8AB6F9;
+}
